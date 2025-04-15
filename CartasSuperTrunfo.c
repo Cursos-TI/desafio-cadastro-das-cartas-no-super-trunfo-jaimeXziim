@@ -21,22 +21,15 @@ int main() {
 
     // Exibição das informações da primeira carta
     printf("\nCarta 1:\n");
-    printf("Estado: %s\n, estado1");
-    printf("Código: %s\n, codigo1");
-    Printf("Cidade: %s\n, nomeCidade1");
+    printf("Estado: %s\n", estado1);
+    printf("Código: %s\n", codigo1);
+    Printf("Cidade: %s\n", nomeCidade1);
+    printf("população: %d\n", populacao1);
+    printf("Área: %.2f km²\n", area1);
+    printf("PIB: %.2f bilhões de reais\n", pib1);
+    printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
-
-
-
-
-
-
-
-
-
-
-
-
+    // Exibição das informações da primeira carta
 
 
 }
