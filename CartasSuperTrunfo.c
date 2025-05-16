@@ -30,6 +30,7 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos1);
 
     // Exibição das informações da primeira carta
-
+printf("\nCarta 1:\n");
+    printf("
 
 }
